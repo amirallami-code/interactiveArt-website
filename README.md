@@ -1,3 +1,2 @@
-# Portfolio project
-simple project created with html ,css and js
-i hope you all enjoy it :)
+# طراحی نمونه سایت
+نمونه سایت طراحی شده با اچ تی ام ال و سی اس اس که مناسب شرکت ها ، فروشگاه هایه کوچیک و... میتونه باشه
