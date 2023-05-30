@@ -1,2 +1,2 @@
-# طراحی نمونه سایت
-نمونه سایت طراحی شده با اچ تی ام ال و سی اس اس که مناسب شرکت ها ، فروشگاه هایه کوچیک و... میتونه باشه
+### portfolio website
+An example of a site designed with HTML and CSS
