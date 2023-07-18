@@ -4,7 +4,7 @@ const menu = $.querySelector('.menu')
 const menuBtn = $.querySelector('.header-icon')
 const menuBtnElem = $.querySelector('.header-icon i')
 
-menuBtnElem.addEventListener('click', function () {
+menuBtnElem.addEventListener('click', () => {
     if (menuBtnElem.classList.contains("fa-bars")) {
         menu.style.left = '0px'
         menuBtnElem.className = 'fa fa-times'
